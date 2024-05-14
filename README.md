@@ -1,15 +1,18 @@
 # Run the Classic Doom Game with SSD1306 and Arduino Pro Mini (5V)
 
-** Current Wiring **
+Witness the magic where the legendary Doom meets the compact power of Arduino Pro Mini and the versatile SSD1306 display.
+
+Delve into the rich history of Doom, a game that revolutionized the gaming industry with its immersive gameplay and iconic graphics. Thanks to its efficient design, Doom is playable on almost any device, from powerful computers to humble microcontrollers like Arduino Pro Mini.
+
+Discover how this repository enables you to experience the thrill of Doom on your Arduino setup, leveraging the capabilities of SSD1306 for an engaging visual experience. Explore the possibilities as we bridge the gap between retro gaming and modern microcontroller technology. Let's embark on a journey where the past meets the future, all within the palm of your hand!
+
+### Current Wiring
 For your convinience I have listed my current wiring underneath. You can fit it differently depending on your setup. However, please note that the Arduino Pro Mini has dedicated SDA on A4 and SCL on A5. On many models these pins are inconviently placed not-to-grid on the PCB board. Besides these video pins you are free to choose any other pins for your setup. 
 
 Arduino —– OLED
 5v ——–––––––—–— VCC (pay attention to your OLED voltage requirements)
-
 GND ——–––––––—– GND
-
 A4 ————–––––––– SDA
-
 A5 ————–––––––– SCL
 
 
@@ -22,9 +25,10 @@ Right button –– 6 Pin
 
 ## Doom 
 
-Doom - Arduino uno - Wokwi ESP32, STM32, Arduino Simulator
+Doom run on Arduino Uno
 https://wokwi.com/projects/397445939459713025
 
+The Wokwi simulator does not have a Arduino Pro Mini option, which is why I have recreated the setup with an Arduino Uno. The basic premise is the same though. The choice of making it with the Pro Mini is due to its smaller design. However, you can also do it with the Arduino Uno if this is the only microcontroller you have available. 
 
 <video width="320" height="240" controls>
   <source src="img/vid/IMG_6066.mov" type="video/mp4">
