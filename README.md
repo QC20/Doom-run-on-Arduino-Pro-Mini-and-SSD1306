@@ -11,8 +11,11 @@ For your convinience I have listed my current wiring underneath. You can fit it 
 
 Arduino —– OLED
 5v ——–––––––—–— VCC (pay attention to your OLED voltage requirements)
+
 GND ——–––––––—– GND
+
 A4 ————–––––––– SDA
+
 A5 ————–––––––– SCL
 
 
