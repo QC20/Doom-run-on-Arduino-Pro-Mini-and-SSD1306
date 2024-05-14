@@ -1,20 +1,22 @@
-# Run the Classic Snake Game with SSD1306 and Arduino Pro Mini
+# Run the Classic Doom Game with SSD1306 and Arduino Pro Mini (5V)
 
 ** Current Wiring **
+For your convinience I have listed my current wiring underneath. You can fit it differently depending on your setup. However, please note that the Arduino Pro Mini has dedicated SDA on A4 and SCL on A5. On many models these pins are inconviently placed not-to-grid on the PCB board. Besides these video pins you are free to choose any other pins for your setup. 
 
 Arduino —– OLED
 5v ——–––––––—–— VCC (pay attention to your OLED voltage requirements)
+
 GND ——–––––––—– GND
+
 A4 ————–––––––– SDA
+
 A5 ————–––––––– SCL
+
 
 Arduino - Buttons
 UP button ––––– 8 Pin
-
 Down button ––– 7 Pin
-
 Left button ––– 9 Pin
-
 Right button –– 6 Pin
 
 

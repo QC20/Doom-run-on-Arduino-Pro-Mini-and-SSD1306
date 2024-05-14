@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../snake-game-with-SSD1306-and-Arduino-Pro-Mini/code"
+		},
+		{
+			"path": "../snake-game-with-SSD1306-and-Arduino-Pro-Mini/img"
+		},
+		{
+			"path": "../snake-game-with-SSD1306-and-Arduino-Pro-Mini/other"
+		}
+	],
+	"settings": {}
+}
