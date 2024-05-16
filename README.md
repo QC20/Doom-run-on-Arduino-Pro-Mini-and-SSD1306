@@ -17,7 +17,7 @@ GND ——–––––––—– GND
 A4 ————–––––––– SDA
 
 A5 ————–––––––– SCL
-
+q
 
 Arduino - Buttons
 UP button ––––– 8 Pin
