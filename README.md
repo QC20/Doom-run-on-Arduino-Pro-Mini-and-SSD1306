@@ -39,6 +39,7 @@ The Wokwi simulator does not have a Arduino Pro Mini option, which is why I have
 </video>
 
 ## Game Map
+To make this project possible, I had to make some compromises, allowing us to see a functioning prototype of Doom running on one of the smallest Arduino products available. The current version is operating with 92% of the available memory, meaning that we are rapidly approaching the limit of what is achievable. One adjustment I made was to include only one level (based on E1M1 from Wolfenstein 3D). So, when you clear a level and advance to the next, you are essentially replaying the same level repeatedly. Fun, right?
 
 ```
   ################################################################
