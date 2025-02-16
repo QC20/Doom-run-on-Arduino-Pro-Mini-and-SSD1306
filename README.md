@@ -1,4 +1,4 @@
-# Run the Classic Doom Game with SSD1306 and Arduino Pro Mini (5V)
+# Run the Classic Doom Game with SSD1306 and Arduino Pro Mini (16 mHz/5V)
 
 Witness the magic where the legendary Doom meets the compact power of Arduino Pro Mini and the versatile SSD1306 display.
 
